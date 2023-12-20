@@ -32,7 +32,7 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 | **MundoHacker** | Globb TV | General | Madrid | *20 abr 2023* | Sí | [Web](https://mundohackerday.com/)| 1 día | -- | Sí |
 | **Hack-en** |Alumnos UJA | General | Linares (Jaén)|*May 2023*| No** | [Web](https://hack-en.org/)| 3 días | 20€(?) | Sí |
 | **Osintomático** | Cyber Hunter Academy | OSINT | Madrid | *12-13 may 2023*    | Sí* | [Web](https://2023.osintomatico.com/)| 2 días | 77€ | Sí |
-| **IntelCon** | Ginseg | OSINT | Madrid/online | *24-28 jul 2023*  | Sí | [Web](https://www.ginseg.com/intelcon/)| 4 días | Gratis | No |
+| **IntelCon** | Ginseg | OSINT | Madrid\*\* | *24-28 jul 2023*  | Sí | [Web](https://www.ginseg.com/intelcon/)| 4 días | Gratis | No |
 | **RootedCon Valencia** | Rooted | General | Valencia | *15-16 sep 2023* | Sí* | [Web](https://www.rootedcon.com/)| 2 días | -- | Sí |
 | **Navaja Negra** |Asociación Navaja Negra | General | Albacete| *5-7 oct 2023*|Sí|[Web](https://www.navajanegra.com/)|2 días | 40-75€| Sí** |
 | **Objective By The Sea** | Objective-See Foundation | Seguridad Apple/Mac | Marbella | *9-13 oct 2023* | Sí | [Web](https://objectivebythesea.org/)| 4 días | -- | No |
@@ -41,7 +41,7 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 | **HoneyCON** | UNED Guadalajara | General | Guadalajara | *2-4 nov 2023* | Sí | [Web](https://honeycon.eu/)| 3 días | -- | -- |
 | **AsturCon** | ORICIO.org | General | Oviedo | *10-11 nov 2023* | Sí |  [Web](https://asturcon.tech/)| 2 días | -- | Sí |
 | **SecAdmin** | Dolbuck | General  | Sevilla | *24-25 nov 2023* | Sí | [Web](https://secadmin.es/)| 2 días | 35€ | Sí |
-| **Jornadas STIC** | CCN-CERT | Ciberdefensa | Madrid/online | *28-30 nov 2023* | Sí(?) | [Web](https://jornadas.ccn-cert.cni.es/es/)| 3 días | Gratis(?) | No |
+| **Jornadas STIC** | CCN-CERT | Ciberdefensa | Madrid\*\* | *28-30 nov 2023* | Sí(?) | [Web](https://jornadas.ccn-cert.cni.es/es/)| 3 días | Gratis(?) | No |
 
 
 &nbsp;
