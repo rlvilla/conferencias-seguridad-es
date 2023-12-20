@@ -1,4 +1,4 @@
-# Conferencias de Ciberseguridad España
+# Conferencias de Ciberseguridad en España
 
 Este repositorio lista las diferentes conferencias/congresos/eventos sobre ciberseguridad en España, sus redes sociales y fechas.
 
