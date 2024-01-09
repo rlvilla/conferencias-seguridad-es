@@ -8,16 +8,15 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 
 | **Evento** | Ubicación | Fecha    | Temas | Talleres | RRSS | Duración | Precio | CTF | Organiza |
 |----------------|----------|-----------|----------|-------|----------|----------|--------|----|----|
-| **Hack&Beers Córdoba** | Córdoba | 28 dic 2023 | General | No | [Web](https://hackandbeers.es/)| Una tarde | Gratis | No | Comunidad Hack&Beers |
-| **RootedCon Málaga** | Málaga | 26 ene 2024 | General | Sí* | [Web](https://www.rootedcon.com/rootedmlg2024-es/)| 1 día | 100€ | Sí | Rooted |
+| **RootedCon Málaga** | Málaga | 26 ene 2024 | General | Sí* | [Web](https://www.rootedcon.com/rootedmlg2024-es/)| 1 día | 100-150€ | Sí(?) | Rooted |
 | **Hackron** | Tenerife | 9 feb 2024 | General | Sí | [Web](https://hackron.com/)| 1 día | -- | Sí | Igor Lukic
 | **hack0n** | Madrid | 22 feb 2024 | General | Sí | [Web](https://hackon.es/)| 1 día | -- | Sí | Alumnos URJC
 | **MorterueloCon** | Cuenca | 22-24 feb 2024 | General | Sí | [Web](https://www.morteruelo.net/)| 3 días | Gratis (Talleres 5€) | Sí | Asociación MorterueloCON
 | **Hackers Week** | Málaga | 4-8 mar 2024 | Parte de seguridad | Sí | [Web](https://hackersweek.es/)| 3 días | Gratis | Sí | Alumnos Informática UMA
 | **RootedCon Madrid** | Madrid | 7-9 mar 2024 | General | Sí* | [Web](https://www.rootedcon.com/)| 3 días | 70-600€ (ant. edición) | Sí | Rooted
-| **Jnic** | Sevilla | Jun 2024 | General | No | [Web](https://2024.jnic.es/)| 3 días | 125-200€ | Sí | Incibe
-| **UAD360** | Málaga  | 14 jun 2024| General | -- | [Web](https://uad360.es/)| 2 días | -- | -- | Hispasec
-| **C1b3rwall** | Ávila | 18-20 jun 2024  | General | Sí | [Web](https://c1b3rwall.policia.es/congreso/)| 2 días | Gratis | Sí | CNP
+| **Jnic** | Sevilla | 27-29 May 2024 | General | No | [Web](https://2024.jnic.es/)| 3 días | 125-200€ | Sí | Incibe |
+| **UAD360** | Málaga  | 14 jun 2024| General | -- | [Web](https://uad360.es/)| 2 días | -- | -- | Hispasec |
+| **C1b3rwall** | Ávila | 18-20 jun 2024  | General | Sí | [Web](https://c1b3rwall.policia.es/congreso/)| 2 días | Gratis | Sí | CNP |
 | **EuskalHack** | San Sebastian | 21-22 jun 2024 | General | Sí | [Web](https://www.euskalhack.org/)| 2 días | 70-95€ (ant. edición) | Sí (+ Hackathon) | Asociación EuskalHack |
 
 &nbsp;
@@ -42,6 +41,7 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 | **AsturCon** | Oviedo | *10-11 nov 2023* | General  | Sí |  [Web](https://asturcon.tech/)| 2 días | -- | Sí | ORICIO.org |
 | **SecAdmin** | Sevilla | *24-25 nov 2023* | General  | Sí | [Web](https://secadmin.es/)| 2 días | 35€ | Sí | Dolbuck |
 | **Jornadas STIC** | Madrid\*\* | *28-30 nov 2023* | Ciberdefensa | Sí(?) | [Web](https://jornadas.ccn-cert.cni.es/es/)| 3 días | Gratis(?) | No | CCN-CERT |
+| **Hack&Beers Córdoba** | Córdoba | 28 dic 2023 | General | No | [Web](https://hackandbeers.es/)| Una tarde | Gratis | No | Comunidad Hack&Beers |
 
 &nbsp;
 
