@@ -8,7 +8,8 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 
 | **Evento** | Ubicación | Fecha    | Temas | Talleres | RRSS | Duración | Precio | CTF | Organiza |
 |----------------|----------|-----------|----------|-------|----------|----------|--------|----|----|
-| **RootedCon Málaga** | Málaga | 26 ene 2024 | General | Sí* | [Web](https://www.rootedcon.com/rootedmlg2024-es/)| 1 día | 100-150€ | Sí(?) | Rooted |
+| **RootedCon Málaga** | Málaga | 26 ene 2024 | General | Sí* | [Web](https://www.rootedcon.com/rootedmlg2024-es/) | 1 día | 100-150€ | Sí(?) | Rooted |
+| **Sh3llCON** | Reinosa (Cantabria) | 26-27 ene 2024 | General | Sí | [Web](https://sh3llcon.es/) | 2 días | 30€ | Sí | Asociación Sh3llCON |
 | **Hackron** | Tenerife | 9 feb 2024 | General | Sí | [Web](https://hackron.com/)| 1 día | -- | Sí | Igor Lukic
 | **hack0n** | Madrid | 22 feb 2024 | General | Sí | [Web](https://hackon.es/)| 1 día | -- | Sí | Alumnos URJC
 | **MorterueloCon** | Cuenca | 22-24 feb 2024 | General | Sí | [Web](https://www.morteruelo.net/)| 3 días | Gratis (Talleres 5€) | Sí | Asociación MorterueloCON
