@@ -43,6 +43,7 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 | **SecAdmin** | Sevilla | *24-25 nov 2023* | General  | Sí | [Web](https://secadmin.es/)| 2 días | 35€ | Sí | Dolbuck |
 | **Jornadas STIC** | Madrid\*\* | *28-30 nov 2023* | Ciberdefensa | Sí(?) | [Web](https://jornadas.ccn-cert.cni.es/es/)| 3 días | Gratis(?) | No | CCN-CERT |
 | **Hack&Beers Córdoba** | Córdoba | 28 dic 2023 | General | No | [Web](https://hackandbeers.es/)| Una tarde | Gratis | No | Comunidad Hack&Beers |
+| **Jornadas X1RedMasSegura** | Madrid | 20 ene 2024 | General | No | [Web](https://x1redmassegura.com/)| Un día | Gratis | No | Comunidad X1RedMasSegura |
 
 &nbsp;
 
