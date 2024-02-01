@@ -8,13 +8,12 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 
 | **Evento** | Ubicación | Fecha    | Temas | Talleres | RRSS | Duración | Precio | CTF | Organiza |
 |----------------|----------|-----------|----------|-------|----------|----------|--------|----|----|
-| **RootedCon Málaga** | Málaga | 26 ene 2024 | General | Sí* | [Web](https://www.rootedcon.com/rootedmlg2024-es/) | 1 día | 100-150€ | Sí(?) | Rooted |
-| **Sh3llCON** | Reinosa (Cantabria) | 26-27 ene 2024 | General | Sí | [Web](https://sh3llcon.es/) | 2 días | 30€ | Sí | Asociación Sh3llCON |
 | **Hackron** | Tenerife | 9 feb 2024 | General | Sí | [Web](https://hackron.com/)| 1 día | -- | Sí | Igor Lukic
 | **hack0n** | Madrid | 22 feb 2024 | General | Sí | [Web](https://hackon.es/)| 1 día | -- | Sí | Alumnos URJC
 | **MorterueloCon** | Cuenca | 22-24 feb 2024 | General | Sí | [Web](https://www.morteruelo.net/)| 3 días | Gratis (Talleres 5€) | Sí | Asociación MorterueloCON
 | **Hackers Week** | Málaga | 4-8 mar 2024 | Parte de seguridad | Sí | [Web](https://hackersweek.es/)| 3 días | Gratis | Sí | Alumnos Informática UMA
 | **RootedCon Madrid** | Madrid | 7-9 mar 2024 | General | Sí* | [Web](https://www.rootedcon.com/)| 3 días | 70-600€ (ant. edición) | Sí | Rooted
+| **Hack-en** | Linares (Jaén)| 17-18 May 2024 | General | Sí | [Web](https://hack-en.org/)| 2 días | 30-36€ | Sí | Alumnos UJA |
 | **Jnic** | Sevilla | 27-29 May 2024 | General | No | [Web](https://2024.jnic.es/)| 3 días | 125-200€ | Sí | Incibe |
 | **UAD360** | Málaga  | 14 jun 2024| General | -- | [Web](https://uad360.es/)| 2 días | -- | -- | Hispasec |
 | **C1b3rwall** | Ávila | 18-20 jun 2024  | General | Sí | [Web](https://c1b3rwall.policia.es/congreso/)| 2 días | Gratis | Sí | CNP |
@@ -30,7 +29,6 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 | **h-c0n¹** | Madrid | *24-25 feb 2023* | General | Sí\* | [Web](https://www.h-c0n.com/)| -- | 50€ | Sí | HackPlayers |
 | **Congreso de Ciberseguridad de Andalucia** | Málaga | *22-23 mar 2023* | General  | Sí | [Web](https://www.juntadeandalucia.es/congresociberseguridadandalucia/)| 2 días | Gratis | Sí | Junta Andalucía |
 | **MundoHacker** | Madrid | *20 abr 2023* | General | Sí | [Web](https://mundohackerday.com/)| 1 día | -- | Sí | Globb TV |
-| **Hack-en** | Linares (Jaén)|*May 2023* | General | No** | [Web](https://hack-en.org/)| 3 días | 20€(?) | Sí | Alumnos UJA |
 | **Osintomático** | Madrid | *12-13 may 2023* | OSINT | Sí* | [Web](https://2023.osintomatico.com/)| 2 días | 77€ | Sí | Cyber Hunter Academy |
 | **IntelCon** | Madrid\*\* | *24-28 jul 2023* | OSINT | Sí | [Web](https://www.ginseg.com/intelcon/)| 4 días | Gratis | No | Ginseg |
 | **RootedCon Valencia** | Valencia | *15-16 sep 2023* | General  | Sí* | [Web](https://www.rootedcon.com/)| 2 días | -- | Sí | Rooted |
@@ -44,6 +42,8 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 | **Jornadas STIC** | Madrid\*\* | *28-30 nov 2023* | Ciberdefensa | Sí(?) | [Web](https://jornadas.ccn-cert.cni.es/es/)| 3 días | Gratis(?) | No | CCN-CERT |
 | **Hack&Beers Córdoba** | Córdoba | 28 dic 2023 | General | No | [Web](https://hackandbeers.es/)| Una tarde | Gratis | No | Comunidad Hack&Beers |
 | **Jornadas X1RedMasSegura** | Madrid | 20 ene 2024 | General | No | [Web](https://x1redmassegura.com/)| Un día | Gratis | No | Comunidad X1RedMasSegura |
+| **RootedCon Málaga** | Málaga | 26 ene 2024 | General | Sí* | [Web](https://www.rootedcon.com/rootedmlg2024-es/) | 1 día | 100-150€ | Sí(?) | Rooted |
+| **Sh3llCON** | Reinosa (Cantabria) | 26-27 ene 2024 | General | Sí | [Web](https://sh3llcon.es/) | 2 días | 30€ | Sí | Asociación Sh3llCON |
 
 &nbsp;
 
